@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.maxmarchesini.it/sitemap.xml
+Sitemap: https://maxmarchesini.it/sitemap.xml
