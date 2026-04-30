@@ -1,0 +1,538 @@
+{
+  "common": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "pricing": "Pricing",
+      "skills": "Skills",
+      "contacts": "Contacts",
+      "method": "Method",
+      "news": "News",
+      "cta": "Let's Work Together"
+    },
+    "categories": {
+      "all": "All",
+      "colleague": "Colleague",
+      "manager": "Manager"
+    }
+  },
+  "header": {
+    "banner": {
+      "badge": "NEW",
+      "welcome": "Welcome to Version 2.0 of maxmarchesini.it",
+      "discover": "Discover the technical-creative evolution"
+    },
+    "status": {
+      "available": "Available"
+    }
+  },
+  "footer": {
+    "about": "IT consultancy for design and development of high-performance digital ecosystems. Specialized in scalable architectures and premium user interfaces.",
+    "contacts": {
+      "title": "Contacts"
+    },
+    "social": {
+      "title": "Social Connect"
+    },
+    "nav": {
+      "title": "Navigation"
+    },
+    "rights": "All rights reserved",
+    "made_with": "Made with"
+  },
+  "home": {
+    "hero": {
+      "title_part1": "Transforming Complexity into",
+      "title_part2": "Business Value",
+      "lead": "Scalable software engineering for Large Corporations and tailored digitalization solutions for SMEs. Secure your digital future with a Senior approach.",
+      "cta_pmi": "Digitalize your SME",
+      "cta_enterprise": "Enterprise Solutions",
+      "achievement1": "FinTech & <br> Compliance",
+      "achievement2": "Senior Architect"
+    },
+    "engagement": {
+      "badge1": "Guaranteed Results",
+      "badge2": "READY FOR THE QUALITY LEAP?",
+      "title_part1": "Let's take your Business",
+      "title_part2": "to the Next Level",
+      "lead": "Whether you need to scale an enterprise architecture or eliminate manual processes in your SME, I have the skills to transform your vision into a winning technological solution.",
+      "cta": "Let's Talk About Your Project",
+      "direct_consultancy": "Direct Senior Consultancy"
+    },
+    "stats": {
+      "projects": "Projects Completed",
+      "clients": "Satisfied Clients",
+      "code": "Lines of code written",
+      "tests": "Automated Test Coverage"
+    },
+    "services": {
+      "pmi": {
+        "badge": "FOR YOUR SME",
+        "title_part1": "Digitalization",
+        "title_part2": "Simple and Concrete",
+        "lead": "I transform your manual processes into digital systems that work for you. Less bureaucracy, more time for your business.",
+        "item1": {
+          "title": "Premium Websites & E-commerce",
+          "desc": "Professional online presence designed to convert visitors into real customers."
+        },
+        "item2": {
+          "title": "Online Booking Systems",
+          "desc": "Eliminate routine phone calls. Allow your customers to book 24/7 in total autonomy."
+        },
+        "item3": {
+          "title": "Internal Process Automation",
+          "desc": "Forget Excel sheets. I digitalize your order management, warehouse, or billing."
+        },
+        "cta": "Start your Digitalization"
+      },
+      "enterprise": {
+        "badge": "FOR LARGE CORPORATIONS",
+        "title_part1": "Engineering for",
+        "title_part2": "Mission-Critical Systems",
+        "lead": "Senior consultancy for complex architectures that require the highest level of scalability, security, and performance.",
+        "item1": {
+          "title": "Software Architecture Design",
+          "desc": "Design of resilient and Cloud-native microservices systems ready for enterprise volumes."
+        },
+        "item2": {
+          "title": "Security & Compliance (DORA/GDPR)",
+          "desc": "Audit and implementation of rigorous standards for the protection of critical assets and sensitive data."
+        },
+        "item3": {
+          "title": "Tech Stack Modernization",
+          "desc": "Elimination of technical debt and assisted migration from legacy systems to modern technologies."
+        },
+        "cta": "Explore my Skills"
+      }
+    },
+    "pricing": {
+      "badge": "CHOOSE YOUR PATH",
+      "title_part1": "Clear Plans,",
+      "title_part2": "Measurable Results",
+      "lead": "From the digitalization of your local business to the scalability of a global enterprise infrastructure.",
+      "most_popular": "MOST POPULAR",
+      "custom": "Tailored",
+      "bottom": {
+        "text": "Specific enterprise needs?",
+        "cta": "Request a custom consultation"
+      },
+      "plan1": {
+        "name": "Digital Core (SME)",
+        "price": "From €1,490",
+        "period": "/project",
+        "description": "Transform your online presence with a premium site optimized for conversion.",
+        "cta": "Start Now",
+        "footer": "Ideal for professionals and local businesses",
+        "features": [
+          "High-Performance Website",
+          "Mobile Responsive Design",
+          "Basic SEO Optimization",
+          "Google Maps/Social Integration"
+        ]
+      },
+      "plan2": {
+        "name": "SaaS & Automation",
+        "price": "Tailored",
+        "period": "",
+        "description": "Custom web apps, booking systems, and business process automation.",
+        "cta": "Request Project",
+        "footer": "Solution for scaling your business",
+        "features": [
+          "Custom management software",
+          "Online booking systems",
+          "API & Payment integrations",
+          "Workflow automation"
+        ]
+      },
+      "plan3": {
+        "name": "Enterprise Strategy",
+        "price": "€299",
+        "period": "/day",
+        "description": "Senior consultancy for architectures, security, and complex systems modernization.",
+        "cta": "Check Availability",
+        "footer": "Long-term Senior consultancy",
+        "features": [
+          "Software Architecture Design",
+          "Security & Compliance (DORA)",
+          "Legacy Stack Modernization",
+          "Continuous Deployment & DevOps"
+        ]
+      }
+    },
+    "partners": {
+      "badge": "Network & Experience",
+      "title_part1": "Clients and",
+      "title_part2": "Collaborations",
+      "lead": "Experience gained collaborating with technological partners and leading companies in the Fintech, Retail, and Services sectors."
+    },
+    "problems": {
+      "badge": "IDENTIFY YOUR CHALLENGE",
+      "title_part1": "Stop the",
+      "title_part2": "Efficiency Loss",
+      "lead": "Obsolete systems and manual processes are not just a cost, they are a brake on your growth.",
+      "pmi": {
+        "title": "For your SME",
+        "items": [
+          "Manual management on Excel and paper sheets causing errors and delays.",
+          "Lost customers because they cannot book or buy online 24/7.",
+          "Slow or dated website that drives away potential partners.",
+          "Dependency on continuous phone calls for simple routine information."
+        ]
+      },
+      "enterprise": {
+        "title": "For Large Corporations",
+        "items": [
+          "Accumulated technical debt that blocks innovation and new releases.",
+          "Architectures that do not scale as traffic volumes increase.",
+          "Security flaws and lack of compliance with modern standards.",
+          "Inaccessible data silos and lack of automation between systems."
+        ]
+      }
+    },
+    "portfolio": {
+      "badge": "Case Studies",
+      "title_part1": "Featured",
+      "title_part2": "Projects",
+      "lead": "Real solutions for concrete technological challenges.",
+      "project1": {
+        "type": "SME Digitalization",
+        "desc": "Digital transformation of a traditional tourist service: from manual management to an ecosystem with online booking and contact automation."
+      },
+      "project2": {
+        "type": "Process Automation",
+        "desc": "Custom software for the construction sector that automates complex calculations and quote generation, reducing response times by 80%."
+      }
+    },
+    "recommendations": {
+      "badge": "SOCIAL PROOF",
+      "title": "What they say about me",
+      "lead": "Professional references collected on LinkedIn from colleagues and managers.",
+      "rec1": {
+        "context": "Colleague in the same team",
+        "text": "I had the pleasure of working with Max at Accenture and I can say he is a truly capable professional. He is always available to help colleagues and share his knowledge, creating a positive and collaborative work environment, which is not at all obvious. Max is a resource that either you have or you must have!",
+        "highlights": [
+          "truly capable professional",
+          "resource that either you have or you must have!"
+        ]
+      },
+      "rec2": {
+        "context": "Colleague in the same team",
+        "text": "I was lucky enough to work with Max in the same team at Accenture. What can I say, Max is a perfect colleague. He is always ready to help others in times of need and has solid back-end experience with a great problem-solving capacity. An added value to the team without a shadow of a doubt.",
+        "highlights": [
+          "perfect colleague",
+          "added value to the team"
+        ]
+      },
+      "rec3": {
+        "context": "Colleague in the same team",
+        "text": "Max is a proactive and precise professional, showing incessant intellectual curiosity and a meticulous approach that ensures the highest quality of the work performed. His reliability and availability, both from a professional and human point of view, are an added value for the team.",
+        "highlights": [
+          "proactive and precise",
+          "highest quality of the work"
+        ]
+      },
+      "rec4": {
+        "context": "Worked with Max in different teams",
+        "text": "Max is a person with significant experience abroad, his path allowed him to have an open mind and a remarkable curiosity allowing him but also the rest of the team, to have a problem-solving capacity outside the box. He is energetic, spontaneous, competent, collaborative, makes you feel involved but above all I have seen him many times helping other team members and this denotes capacity for group spirit and generosity. I think it is one of his most important qualities but also in the work environment. Even if he worked nights or a hard day at work, he smiles and helps you if he can. It was a pleasure to work as a java back-end developer with Max.",
+        "highlights": [
+          "problem-solving capacity outside the box",
+          "group spirit and generosity"
+        ]
+      },
+      "rec5": {
+        "context": "Direct Manager",
+        "text": "While working with Max, he has been an exceptional employee, always eager to learn and develop his skills to get the most out of his job role. Would accept all feed back constructively and improvise to better himself. Ever ready to help and do more to help the team when required. Adaptable and reliable. Max would be an great asset to any organisation and I highly recommend Max for any job role he takes.",
+        "highlights": [
+          "exceptional employee",
+          "highly recommend Max"
+        ]
+      }
+    }
+  },
+  "skills": {
+    "badge": "Skills",
+    "title_part1": "My",
+    "title_part2": "Skills",
+    "lead": "A combination of architectural vision and technical mastery. I build systems that not only work, but excel in performance and scalability.",
+    "pillars": {
+      "title_part1": "Professional",
+      "title_part2": "Pillars",
+      "focus_title": "Focus & Philosophy",
+      "focus_lead": "My experience ranges from the high-computational <strong>FinTech</strong> sector to the creation of complex <strong>E-commerce</strong> and <strong>Language Portals</strong>.",
+      "focus_item1": "Enterprise Design Patterns & Clean Architecture",
+      "focus_item2": "Performance Optimization & Core Web Vitals",
+      "focus_item3": "OWASP Security & Identity Management (OAuth2/OIDC)",
+      "focus_item4": "Cloud Automation & Zero-Downtime Strategies"
+    },
+    "projects": {
+      "title_part1": "Featured",
+      "title_part2": "Projects",
+      "lead": "Mastery is demonstrated with facts. Here are some projects I conceived and brought to success.",
+      "project1": {
+        "badge": "Website",
+        "desc": "The tourist train of the city of Nuoro. A restyling project that combines tradition and cutting-edge technology, managing the first contacts of customers such as public and private entities."
+      },
+      "project2": {
+        "badge": "Desktop App",
+        "desc": "Software product designed to optimize the creation and management of quotes."
+      }
+    },
+    "certifications": {
+      "title": "Certifications & Training",
+      "item1": "Analyst Programmer",
+      "item1_sub": "Cefi Informatics Institute - 30/30",
+      "item2": "B1-Zertifikat Deutsch",
+      "item2_sub": "ASL Internationale Sprachenschule München"
+    },
+    "languages": {
+      "title": "Languages & Soft Skills",
+      "it": "Italian",
+      "en": "English",
+      "de": "German",
+      "sc": "Sardinian"
+    },
+    "bottom": {
+      "title": "Ready to bring your vision to life?",
+      "cta_start": "Start Now",
+      "cta_home": "Back to Home"
+    },
+    "items": {
+      "item1": {
+        "title": "Software Architecture",
+        "desc": "Design of complex systems with high availability. Expert in microservices, hexagonal architectures, and domain-driven design (DDD)."
+      },
+      "item2": {
+        "title": "Backend Engineering",
+        "desc": "Development of robust and scalable business logic. Specialized in Java ecosystem and legacy systems integration."
+      },
+      "item3": {
+        "title": "Cloud & Infrastructure",
+        "desc": "Modern and automated infrastructures. Focus on release automation, elastic scalability, and data security."
+      },
+      "item4": {
+        "title": "Frontend Innovation",
+        "desc": "Premium user interfaces with a focus on performance and user experience. Maximum attention to code quality and accessibility."
+      },
+      "item5": {
+        "title": "API & Integration",
+        "desc": "Connected and secure API ecosystems. Exploring new frontiers like GraphQL to maximize data efficiency."
+      },
+      "item6": {
+        "title": "Security & Compliance",
+        "desc": "System integrity and regulatory compliance. Implementation of banking and healthcare security standards (GDPR, HIPAA, PCI-DSS, DORA)."
+      }
+    }
+  },
+  "method": {
+    "hero": {
+      "badge": "Senior Level Process",
+      "title_part1": "My",
+      "title_part2": "Method",
+      "lead": "From idea to production, I apply a rigorous framework based on consolidated experience in enterprise contexts to ensure scalability, security, and execution speed."
+    },
+    "steps": {
+      "step1": {
+        "title": "Discovery & Analysis",
+        "desc": "We define business goals, identify bottlenecks, and design the optimal solution."
+      },
+      "step2": {
+        "title": "Architecture & Design",
+        "desc": "Designing high-performance Cloud-native systems with a focus on security and maintainability."
+      },
+      "step3": {
+        "title": "Agile Development",
+        "desc": "Clean code, automated tests, and continuous releases to ensure quality and total transparency."
+      },
+      "step4": {
+        "title": "Monitoring & Evolution",
+        "desc": "Full system observability and proactive support to scale without compromise."
+      }
+    },
+    "details": {
+      "title": "Why does a <span class=\"text-gradient\">Senior</span> approach make a difference?",
+      "desc": "Many limit themselves to \"making the code work\". My method focuses on **Long-Term Value**. Well-designed software costs less to maintain and scales without friction.",
+      "item1": {
+        "title": "Security by Design",
+        "desc": "Security is not an option, it is integrated into every line of code from day one."
+      },
+      "item2": {
+        "title": "Horizontal Scalability",
+        "desc": "Architectures ready to handle from 100 to 1,000,000 users without rewriting the core."
+      },
+      "item3": {
+        "title": "Compliance & Security",
+        "desc": "Rigorous management of GDPR, HIPAA, PCI-DSS, and DORA standards for complex systems."
+      }
+    },
+    "cta": {
+      "title": "Ready to Optimize your Business?",
+      "lead": "From strategic vision to technical delivery, I transform your challenges into competitive advantages.",
+      "button": "Start your Project"
+    }
+  },
+  "contact": {
+    "title_part1": "Let's build something",
+    "title_part2": "Extraordinary",
+    "lead": "Have an ambitious project? Let's talk about how technology can transform your goals into reality.",
+    "info": {
+      "title": "Contact Information",
+      "company_label": "Company",
+      "address_label": "Operating Office",
+      "vat_label": "VAT Number",
+      "phone_label": "Phone",
+      "email_label": "Email"
+    },
+    "form": {
+      "title": "Send a Message",
+      "name_label": "Name",
+      "name_placeholder": "Your name",
+      "email_label": "Email",
+      "email_placeholder": "your@email.com",
+      "project_type_label": "Project Type",
+      "project_type_placeholder": "Select a category",
+      "project_types": {
+        "web": "Website / E-commerce",
+        "mobile": "Mobile App",
+        "cloud": "Cloud & Infrastructure",
+        "consulenza": "Senior Consultancy"
+      },
+      "details_label": "Project Details",
+      "details_placeholder": "Briefly describe your technological challenge...",
+      "submit": "Send Message"
+    }
+  },
+  "tech_stack": {
+    "hero": {
+      "badge": "Technical Excellence",
+      "title_part1": "My",
+      "title_part2": "Tech Stack",
+      "lead": "I use an ecosystem of market-leading technologies to guarantee robust, secure, and cutting-edge solutions."
+    },
+    "categories": {
+      "frontend": {
+        "name": "Frontend Development",
+        "desc": "Modern, responsive, and high-performance user interfaces built with the most advanced frameworks."
+      },
+      "backend": {
+        "name": "Backend Engineering",
+        "desc": "Robust and scalable architectures to handle complex business logic and intensive data flows."
+      },
+      "cloud": {
+        "name": "Cloud & DevOps",
+        "desc": "Deployment and monitoring on secure and automated cloud infrastructures."
+      },
+      "mobile": {
+        "name": "Mobile Development",
+        "desc": "Developing native and cross-platform applications for iOS and Android."
+      },
+      "architecture": {
+        "name": "Architecture",
+        "desc": "Designing microservices systems and event-oriented enterprise architectures."
+      },
+      "security": {
+        "name": "Security & Quality",
+        "desc": "Guaranteeing high standards through rigorous testing and advanced security practices."
+      }
+    },
+    "cta": {
+      "title": "Have a specific project in mind?",
+      "button_work": "Let's Work Together",
+      "button_home": "Back to Home"
+    }
+  },
+  "news": {
+    "hero": {
+      "badge": "TECHNICAL CASE STUDY",
+      "title_part1": "Engineering the New Version",
+      "title_part2": "of my site",
+      "lead": "Discover how I transformed my digital presence from a traditional site to a high-performance reactive ecosystem, applying the same standards of excellence I offer to my clients."
+    },
+    "comparison": {
+      "legacy": {
+        "label": "Legacy (2023)",
+        "title": "The Static Architecture",
+        "desc": "The previous site suffered from the typical limits of traditional architectures:",
+        "item1": "High latency due to full page reloads",
+        "item2": "Scalability difficulties for advanced custom features",
+        "item3": "Manual and fragmented UI management"
+      },
+      "modern": {
+        "label": "Modern (Today)",
+        "title": "The New Era: Angular SPA",
+        "desc": "This version represents the gold standard of modern web development:",
+        "item1": "Instant navigation without reloading (SPA)",
+        "item2": "Standalone Components for maximum modularity and reuse",
+        "item3": "Native integration with Cloud & API ecosystems"
+      }
+    },
+    "visual": {
+      "v1_badge": "Legacy v1.0",
+      "v1_label": "Previous Site",
+      "v2_badge": "Modern v2.0",
+      "v2_label": "Current Experience",
+      "v2_title": "High-Performance Navigation",
+      "v2_desc": "What you are experiencing now",
+      "section_title": "A Tangible Leap in Quality",
+      "section_desc": "It's not just about aesthetics. The new version was rebuilt from scratch to offer a fluidity that a traditional site cannot reach.",
+      "feature1_title": "Response Speed",
+      "feature1_desc": "Drastically reduced loading time.",
+      "feature2_title": "Mobile First",
+      "feature2_desc": "UX optimized for every device."
+    },
+    "tech": {
+      "title": "Under the Hood: The Technology",
+      "stat1": {
+        "title": "Core Performance",
+        "desc": "Lighthouse score improved by 40%. Interactivity time reduced thanks to Lazy Loading."
+      },
+      "stat2": {
+        "title": "Type Safety",
+        "desc": "Developed entirely in TypeScript to ensure a solid codebase free of runtime bugs."
+      },
+      "stat3": {
+        "title": "Component Architecture",
+        "desc": "Every element is an atomic component, facilitating continuous testing and updates without downtime."
+      }
+    },
+    "freelance": {
+      "title": "Freelance Development and Opportunities",
+      "p1": "The software development market in Italy is changing rapidly. As a freelance, the main challenge is not just writing quality code, but knowing how to position yourself correctly to intercept companies looking for specific skills.",
+      "p2": "Here is a fundamental resource to manage this complexity:"
+    },
+    "cta": {
+      "badge": "SYSTEM ARCHITECTURE",
+      "title": "It's not just aesthetics. It's Engineering.",
+      "lead": "Many only see the graphic change but there is also data stability, frame speed, and memory efficiency. Every line of code is optimized for scalability.",
+      "button_business": "Want the same for your business?",
+      "button_tech": "Explore my Tech Stack"
+    }
+  },
+  "seo": {
+      "default_title": "Max Marchesini | Software Developer & IT Consultant",
+      "default_description": "Software developer expert in scalable architectures, microservices and high-performance web solutions.",
+      "home": {
+        "title": "Home | Max Marchesini",
+        "description": "Welcome to the official website of Max Marchesini, Software Developer & IT Consultant. Enterprise solutions and SME digitalization."
+      },
+      "method": {
+        "title": "My Method | Max Marchesini",
+        "description": "Discover Max Marchesini's engineering approach: from analysis to delivery of scalable and secure software."
+      },
+      "tech_stack": {
+        "title": "Tech Stack | Max Marchesini",
+        "description": "The technologies I use to build digital ecosystems: Angular, Java, Spring Boot, Microservices, and Cloud."
+      },
+      "skills": {
+        "title": "Skills | Max Marchesini",
+        "description": "Technical expertise in Software Architecture, Frontend Engineering, Backend Development, and DevOps."
+      },
+      "news": {
+        "title": "News & Case Studies | Max Marchesini",
+        "description": "Technical updates, project evolution, and software engineering case studies."
+      },
+      "contact": {
+        "title": "Contacts | Max Marchesini",
+        "description": "Get in touch for your next software project or technical consultancy."
+      }
+    }
+}
