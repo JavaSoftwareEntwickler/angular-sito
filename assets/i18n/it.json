@@ -398,6 +398,8 @@
       },
       "details_label": "Dettagli Progetto",
       "details_placeholder": "Descrivi brevemente la tua sfida tecnologica...",
+      "privacy_accept": "Accetto il trattamento dei dati personali secondo la",
+      "privacy_link": "Privacy Policy",
       "submit": "Invia Messaggio"
     }
   },
@@ -533,6 +535,33 @@
     "contact": {
       "title": "Contatti | Max Marchesini",
       "description": "Contatta Max Marchesini a Nuoro (Sardegna): mettiamoci in contatto per il tuo prossimo progetto software o consulenza tecnica."
+    },
+    "privacy": {
+      "title": "Privacy Policy | Max Marchesini",
+      "description": "Informativa sulla privacy e trattamento dei dati personali di Max Marchesini a Nuoro (Sardegna)."
+    }
+  },
+  "privacy": {
+    "title_part1": "Privacy",
+    "title_part2": "Policy",
+    "last_update": "Ultimo aggiornamento",
+    "sections": {
+      "holder": {
+        "title": "Titolare del Trattamento",
+        "content": "I dati sono trattati esclusivamente dal titolare per le finalità legate alla richiesta di contatto."
+      },
+      "data": {
+        "title": "Dati Raccolti",
+        "content": "Attraverso il modulo di contatto vengono raccolti: Nome, Email e tipologia di progetto. Questi dati vengono inviati tramite il servizio Formspree al solo scopo di rispondere alle tue richieste."
+      },
+      "purpose": {
+        "title": "Finalità",
+        "content": "I dati vengono utilizzati esclusivamente per ricontattarti in merito alla tua richiesta di consulenza o progetto software. Non vengono ceduti a terzi né utilizzati per finalità di marketing senza esplicito consenso."
+      },
+      "rights": {
+        "title": "I Tuoi Diritti",
+        "content": "Puoi richiedere in qualsiasi momento la cancellazione o la modifica dei tuoi dati scrivendo a info@maxmarchesini.it."
+      }
     }
   }
 }
