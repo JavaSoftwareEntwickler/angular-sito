@@ -508,31 +508,31 @@
     }
   },
   "seo": {
-      "default_title": "Max Marchesini | Software Developer & IT Consultant",
-      "default_description": "Software developer expert in scalable architectures, microservices and high-performance web solutions.",
-      "home": {
-        "title": "Home | Max Marchesini",
-        "description": "Welcome to the official website of Max Marchesini, Software Developer & IT Consultant. Enterprise solutions and SME digitalization."
-      },
-      "method": {
-        "title": "My Method | Max Marchesini",
-        "description": "Discover Max Marchesini's engineering approach: from analysis to delivery of scalable and secure software."
-      },
-      "tech_stack": {
-        "title": "Tech Stack | Max Marchesini",
-        "description": "The technologies I use to build digital ecosystems: Angular, Java, Spring Boot, Microservices, and Cloud."
-      },
-      "skills": {
-        "title": "Skills | Max Marchesini",
-        "description": "Technical expertise in Software Architecture, Frontend Engineering, Backend Development, and DevOps."
-      },
-      "news": {
-        "title": "News & Case Studies | Max Marchesini",
-        "description": "Technical updates, project evolution, and software engineering case studies."
-      },
-      "contact": {
-        "title": "Contacts | Max Marchesini",
-        "description": "Get in touch for your next software project or technical consultancy."
-      }
+    "default_title": "Max Marchesini | Software Developer & IT Consultant",
+    "default_description": "Max Marchesini, software developer in Nuoro (Sardinia) expert in scalable architectures, website restyling, online bookings, and high-performance web solutions for any need or sector.",
+    "home": {
+      "title": "Home | Max Marchesini",
+      "description": "Max Marchesini, Software Developer in Nuoro (Sardinia) specialized in website creation, online booking systems, and Stripe payment integration for SMEs and companies. IT Consultant in Nuoro (Sardinia)."
+    },
+    "method": {
+      "title": "My Method | Max Marchesini",
+      "description": "Discover Max Marchesini's engineering approach in Nuoro (Sardinia): from analysis to delivery of scalable and secure software."
+    },
+    "tech_stack": {
+      "title": "Tech Stack | Max Marchesini",
+      "description": "The technologies that Max Marchesini in Nuoro (Sardinia) uses to build digital ecosystems: Angular, Java, Spring Boot, NextJs, Microservices, and Cloud."
+    },
+    "skills": {
+      "title": "Skills | Max Marchesini",
+      "description": "Technical expertise in Software Architecture, Frontend Engineering, Backend Development, and DevOps by Max Marchesini in Nuoro (Sardinia)."
+    },
+    "news": {
+      "title": "News & Case Studies | Max Marchesini",
+      "description": "Max Marchesini's new site in Nuoro (Sardinia): technical updates, project evolution, and software engineering case studies. What Max Marchesini in Nuoro thinks about freelanceDev"
+    },
+    "contact": {
+      "title": "Contacts | Max Marchesini",
+      "description": "Contact Max Marchesini in Nuoro (Sardinia): let's get in touch for your next software project or technical consultancy."
     }
+  }
 }

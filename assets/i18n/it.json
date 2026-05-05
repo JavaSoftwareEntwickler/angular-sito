@@ -210,27 +210,42 @@
       "rec1": {
         "context": "Collaboratrice nello stesso team",
         "text": "Ho avuto il piacere di lavorare con Max presso Accenture e posso dire che è un professionista davvero in gamba. È sempre disponibile ad aiutare i colleghi e a condividere le sue conoscenze, creando un ambiente di lavoro positivo e collaborativo, cosa che non è affatto scontata. Max è una risorsa che o ce l’hai o la devi avere!",
-        "highlights": ["professionista davvero in gamba", "risorsa che o ce l’hai o la devi avere!"]
+        "highlights": [
+          "professionista davvero in gamba",
+          "risorsa che o ce l’hai o la devi avere!"
+        ]
       },
       "rec2": {
         "context": "Collaboratore nello stesso team",
         "text": "Ho avuto la fortuna di lavorare con Max nello stesso team presso Accenture. Che dire Max è un collega perfetto. E' sempre pronto ad aiutare gli altri nel momento del bisogno ed ha una solida esperienza lato back-end con una grande capacità di problem solving. Un valore aggiunto al team senza ombra di dubbio.",
-        "highlights": ["collega perfetto", "valore aggiunto al team"]
+        "highlights": [
+          "collega perfetto",
+          "valore aggiunto al team"
+        ]
       },
       "rec3": {
         "context": "Collaboratrice nello stesso team",
         "text": "Max è un professionista proattivo e preciso, mostra un’incessante curiosità intellettuale e un approccio meticoloso che assicura la massima qualità del lavoro svolto. La sua affidabilità e disponibilità, sia dal punto di vista professionale che umano, sono un valore aggiunto per il team.",
-        "highlights": ["proattivo e preciso", "massima qualità del lavoro"]
+        "highlights": [
+          "proattivo e preciso",
+          "massima qualità del lavoro"
+        ]
       },
       "rec4": {
         "context": "Ha lavorato con Max in team diversi",
         "text": "Max è una persona con un'esperienza all'estero significativa, il suo percorso gli ha permesso di avere una mente aperta e una curiosità notevole permettendo a lui ma anche al resto del team, di avere una capacità di problem solving fuori dagli schemi. E' energetico, spontaneo, competente, collaborativo, ti fa sentire coinvolto ma sopratutto l'ho visto tante volte aiutare gli altri membri del team e questo denota capacità di spirito di gruppo e generosità. Credo che sia una delle qualità più importanti di lui ma anche nell'ambiente di lavoro. Anche se ha fatto le notti o una dura giornata di lavoro, sorride e ti aiuta se riesce. E' stato un piacere lavorare come sviluppatore java back-end insieme a Max.",
-        "highlights": ["capacità di problem solving fuori dagli schemi", "spirito di gruppo e generosità"]
+        "highlights": [
+          "capacità di problem solving fuori dagli schemi",
+          "spirito di gruppo e generosità"
+        ]
       },
       "rec5": {
         "context": "Manager diretto",
         "text": "While working with Max, he has been an exceptional employee, always eager to learn and develop his skills to get the most out of his job role. Would accept all feed back constructively and improvise to better himself. Ever ready to help and do more to help the team when required. Adaptable and reliable. Max would be an great asset to any organisation and I highly recommend Max for any job role he takes.",
-        "highlights": ["exceptional employee", "highly recommend Max"]
+        "highlights": [
+          "exceptional employee",
+          "highly recommend Max"
+        ]
       }
     }
   },
@@ -493,31 +508,31 @@
     }
   },
   "seo": {
-      "default_title": "Max Marchesini | Sviluppatore Software & Consulente IT",
-      "default_description": "Sviluppatore software esperto in architetture scalabili, microservizi e soluzioni web high-performance.",
-      "home": {
-        "title": "Home | Max Marchesini",
-        "description": "Benvenuti nel sito ufficiale di Max Marchesini, Sviluppatore Software & Consulente IT. Soluzioni enterprise e digitalizzazione PMI."
-      },
-      "method": {
-        "title": "Il Mio Metodo | Max Marchesini",
-        "description": "Scopri l'approccio ingegneristico di Max Marchesini: dall'analisi alla delivery di software scalabile e sicuro."
-      },
-      "tech_stack": {
-        "title": "Tech Stack | Max Marchesini",
-        "description": "Le tecnologie che utilizzo per costruire ecosistemi digitali: Angular, Java, Spring Boot, Microservizi e Cloud."
-      },
-      "skills": {
-        "title": "Competenze | Max Marchesini",
-        "description": "Expertise tecnica in Software Architecture, Frontend Engineering, Backend Development e DevOps."
-      },
-      "news": {
-        "title": "News & Case Studies | Max Marchesini",
-        "description": "Aggiornamenti tecnici, evoluzione del progetto e case studies di ingegneria del software."
-      },
-      "contact": {
-        "title": "Contatti | Max Marchesini",
-        "description": "Mettiamoci in contatto per il tuo prossimo progetto software o consulenza tecnica."
-      }
+    "default_title": "Max Marchesini | Sviluppatore Software & Consulente IT",
+    "default_description": "Max Marchesini, sviluppatore software a Nuoro (Sardegna) esperto in architetture scalabili, restyling siti web, prenotazioni online e soluzioni web high-performance per ogni esigenza o settore.",
+    "home": {
+      "title": "Home | Max Marchesini",
+      "description": "Max Marchesini, sviluppatore Software o Software Developer a Nuoro (Sardegna) specializzato in creazioni di siti web, sistemi di prenotazione online e integrazione pagamenti Stripe per PMI e aziende. Consulente IT a Nuoro (Sardegna)."
+    },
+    "method": {
+      "title": "Il Mio Metodo | Max Marchesini",
+      "description": "Scopri l'approccio ingegneristico di Max Marchesini a Nuoro (Sardegna): dall'analisi alla delivery di software scalabile e sicuro."
+    },
+    "tech_stack": {
+      "title": "Tech Stack | Max Marchesini",
+      "description": "Le tecnologie che Max Marchesini a Nuoro (Sardegna) utilizza per costruire ecosistemi digitali: Angular, Java, Spring Boot, NextJs, Microservizi e Cloud."
+    },
+    "skills": {
+      "title": "Competenze | Max Marchesini",
+      "description": "Expertise tecnica in Software Architecture, Frontend Engineering, Backend Development e DevOps di Max Marchesini a Nuoro (Sardegna)."
+    },
+    "news": {
+      "title": "News & Case Studies | Max Marchesini",
+      "description": "Nuovo sito di Max Marchesini a Nuoro (Sardegna): aggiornamenti tecnici, evoluzione del progetto e case studies di ingegneria del software. Quello che Max Marchesini a Nuoro pensa di freelanceDev"
+    },
+    "contact": {
+      "title": "Contatti | Max Marchesini",
+      "description": "Contatta Max Marchesini a Nuoro (Sardegna): mettiamoci in contatto per il tuo prossimo progetto software o consulenza tecnica."
     }
+  }
 }
