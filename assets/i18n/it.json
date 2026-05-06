@@ -383,6 +383,8 @@
       "email_label": "Email"
     },
     "form": {
+      "privacy_accept": "Accetto il trattamento dei dati personali secondo la",
+      "privacy_link": "Privacy Policy",
       "title": "Invia un Messaggio",
       "name_label": "Nome",
       "name_placeholder": "Il tuo nome",
@@ -398,8 +400,6 @@
       },
       "details_label": "Dettagli Progetto",
       "details_placeholder": "Descrivi brevemente la tua sfida tecnologica...",
-      "privacy_accept": "Accetto il trattamento dei dati personali secondo la",
-      "privacy_link": "Privacy Policy",
       "submit": "Invia Messaggio"
     }
   },
