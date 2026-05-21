@@ -109,7 +109,7 @@
       "badge": "CHOOSE YOUR PATH",
       "title_part1": "Clear Plans,",
       "title_part2": "Measurable Results",
-      "lead": "From the digitalization of your local business to the scalability of a global enterprise infrastructure.",
+      "lead": "From the website of your small business to the scalability of a global enterprise infrastructure.",
       "most_popular": "MOST POPULAR",
       "custom": "Tailored",
       "bottom": {
@@ -118,7 +118,7 @@
       },
       "plan1": {
         "name": "Digital Core (SME)",
-        "price": "From €1,490",
+        "price": "Starting from €990 up to €5,900",
         "period": "/project",
         "description": "Transform your online presence with a premium site optimized for conversion.",
         "cta": "Start Now",
@@ -193,7 +193,7 @@
       "badge": "Case Studies",
       "title_part1": "Digital",
       "title_part2": "Transformations",
-      "lead": "Concrete results: from past technical debt to modern, high-performance solutions.",
+      "lead": "Some of the projects completed for my clients and some that will be delivered soon:",
       "project1": {
         "type": "SME Digital Evolution",
         "desc": "RedenTrains.it: Tourist train of the city of Nuoro by Salvatore Fadda. Total restyling of the website. I transformed the old static site improving drastically visibility and efficiency."
@@ -261,7 +261,7 @@
     "badge": "Skills",
     "title_part1": "My",
     "title_part2": "Skills",
-    "lead": "A combination of architectural vision and technical mastery. I build systems that not only work, but excel in performance and scalability.",
+    "lead": "Thanks to IT consultancy at companies like Reply and Accenture, I now build systems that not only work, but excel in performance and scalability.",
     "pillars": {
       "title_part1": "Professional",
       "title_part2": "Pillars",
