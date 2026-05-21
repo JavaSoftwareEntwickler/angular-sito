@@ -6,8 +6,6 @@
       "pricing": "Prezzi",
       "skills": "Competenze",
       "contacts": "Contatti",
-      "method": "Metodo",
-      "news": "News",
       "cta": "Lavoriamo Insieme"
     },
     "categories": {
@@ -17,11 +15,6 @@
     }
   },
   "header": {
-    "banner": {
-      "badge": "NEW",
-      "welcome": "Benvenuti nella Versione 2.0 di maxmarchesini.it",
-      "discover": "Scopri l'evoluzione tecnico-creativa"
-    },
     "status": {
       "available": "Disponibile"
     }
