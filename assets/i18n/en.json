@@ -42,13 +42,13 @@
   },
   "home": {
     "hero": {
-      "title_part1": "Transforming Complexity into",
-      "title_part2": "Business Value",
-      "lead": "Scalable software engineering for Large Corporations and tailored digitalization solutions for SMEs. Secure your digital future with a Senior approach.",
-      "cta_pmi": "Digitalize your SME",
+      "title_part1": "Hi, I'm",
+      "title_part2": "Max Marchesini",
+      "lead": "I am 49 years old, live in Sardinia (Italy) and I am a software developer. After many years spent writing code for large enterprise realities, today I put my experience at the service of those who have digital problems to solve, whether it is a small local business or a large corporation. I bring my face, my competence and maximum transparency to the table.",
+      "cta_pmi": "Digitalize your business",
       "cta_enterprise": "Enterprise Solutions",
-      "achievement1": "FinTech & <br> Compliance",
-      "achievement2": "Senior Architect"
+      "achievement1": "Barbagia <br> Silicon Valley",
+      "achievement2": "Senior Developer"
     },
     "engagement": {
       "badge1": "Guaranteed Results",
@@ -146,11 +146,11 @@
       },
       "plan3": {
         "name": "Enterprise Strategy",
-        "price": "€299",
-        "period": "/day",
+        "price": "Senior",
+        "period": "Consultancy",
         "description": "Senior consultancy for architectures, security, and complex systems modernization.",
-        "cta": "Check Availability",
-        "footer": "Long-term Senior consultancy",
+        "cta": "Request Slot",
+        "footer": "Scalable Enterprise Solutions",
         "features": [
           "Software Architecture Design",
           "Security & Compliance (DORA)",
@@ -191,16 +191,16 @@
     },
     "portfolio": {
       "badge": "Case Studies",
-      "title_part1": "Featured",
-      "title_part2": "Projects",
-      "lead": "Real solutions for concrete technological challenges.",
+      "title_part1": "Digital",
+      "title_part2": "Transformations",
+      "lead": "Concrete results: from past technical debt to modern, high-performance solutions.",
       "project1": {
-        "type": "SME Digitalization",
-        "desc": "Digital transformation of a traditional tourist service: from manual management to an ecosystem with online booking and contact automation."
+        "type": "SME Digital Evolution",
+        "desc": "RedenTrains.it: Total restyling of a historic tourist service. I transformed an old static site and manual processes into an ecosystem with automated online booking, drastically improving visibility and efficiency."
       },
       "project2": {
         "type": "Process Automation",
-        "desc": "Custom software for the construction sector that automates complex calculations and quote generation, reducing response times by 80%."
+        "desc": "IL Preventivo: Custom software for the construction sector. It automates complex calculations and quote generation, reducing response times by 80% and eliminating calculation errors."
       }
     },
     "recommendations": {
@@ -263,19 +263,6 @@
       "focus_item2": "Performance Optimization & Core Web Vitals",
       "focus_item3": "OWASP Security & Identity Management (OAuth2/OIDC)",
       "focus_item4": "Cloud Automation & Zero-Downtime Strategies"
-    },
-    "projects": {
-      "title_part1": "Featured",
-      "title_part2": "Projects",
-      "lead": "Mastery is demonstrated with facts. Here are some projects I conceived and brought to success.",
-      "project1": {
-        "badge": "Website",
-        "desc": "The tourist train of the city of Nuoro. A restyling project that combines tradition and cutting-edge technology, managing the first contacts of customers such as public and private entities."
-      },
-      "project2": {
-        "badge": "Desktop App",
-        "desc": "Software product designed to optimize the creation and management of quotes."
-      }
     },
     "certifications": {
       "title": "Certifications & Training",

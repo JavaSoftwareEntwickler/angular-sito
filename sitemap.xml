@@ -8,7 +8,7 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it" />
     <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://maxmarchesini.it/it" />
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -17,81 +17,9 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it" />
     <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://maxmarchesini.it/it" />
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-
-  <!-- METODO -->
-  <url>
-    <loc>https://maxmarchesini.it/it/metodo</loc>
-    <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/metodo" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/metodo" />
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maxmarchesini.it/en/metodo</loc>
-    <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/metodo" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/metodo" />
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- TECH-STACK -->
-  <url>
-    <loc>https://maxmarchesini.it/it/tech-stack</loc>
-    <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/tech-stack" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/tech-stack" />
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maxmarchesini.it/en/tech-stack</loc>
-    <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/tech-stack" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/tech-stack" />
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- COMPETENZE -->
-  <url>
-    <loc>https://maxmarchesini.it/it/competenze</loc>
-    <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/competenze" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/competenze" />
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maxmarchesini.it/en/competenze</loc>
-    <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/competenze" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/competenze" />
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- NEWS -->
-  <url>
-    <loc>https://maxmarchesini.it/it/news</loc>
-    <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/news" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/news" />
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://maxmarchesini.it/en/news</loc>
-    <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/news" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/news" />
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
 
   <!-- CONTATTI -->
@@ -99,17 +27,31 @@
     <loc>https://maxmarchesini.it/it/contatti</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/contatti" />
     <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/contatti" />
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://maxmarchesini.it/en/contatti</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://maxmarchesini.it/it/contatti" />
     <xhtml:link rel="alternate" hreflang="en" href="https://maxmarchesini.it/en/contatti" />
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PRIVACY -->
+  <url>
+    <loc>https://maxmarchesini.it/it/privacy</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+  </url>
+  <url>
+    <loc>https://maxmarchesini.it/en/privacy</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
   </url>
 
 </urlset>

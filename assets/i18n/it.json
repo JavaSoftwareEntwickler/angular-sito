@@ -42,13 +42,13 @@
   },
   "home": {
     "hero": {
-      "title_part1": "Trasformo la Complessità in",
-      "title_part2": "Valore di Business",
-      "lead": "Ingegneria del software scalabile per Grandi Aziende e soluzioni di digitalizzazione su misura per PMI. Metti in sicurezza il tuo futuro digitale con un approccio Senior.",
-      "cta_pmi": "Digitalizza la tua PMI",
+      "title_part1": "Ciao, sono",
+      "title_part2": "Max Marchesini",
+      "lead": "Ho 49 anni, vivo a Nuoro in Sardegna e sono uno sviluppatore software. Dopo molti anni passati a scrivere codice per grandi realtà enterprise, oggi metto la mia esperienza al servizio di chi ha problemi digitali da risolvere, che si tratti di una piccola attività locale o di una grossa azienda. Ci metto la faccia, la competenza e la massima trasparenza.",
+      "cta_pmi": "Digitalizza la tua attività",
       "cta_enterprise": "Soluzioni Enterprise",
-      "achievement1": "FinTech & <br> Compliance",
-      "achievement2": "Senior Architect"
+      "achievement1": "Barbagia <br> Silicon Valley",
+      "achievement2": "Sviluppatore Senior"
     },
     "engagement": {
       "badge1": "Risultati Garantiti",
@@ -146,11 +146,11 @@
       },
       "plan3": {
         "name": "Enterprise Strategy",
-        "price": "299 €",
-        "period": "/giorno",
+        "price": "Consulenza",
+        "period": "Senior",
         "description": "Consulenza senior per architetture, sicurezza e modernizzazione sistemi complessi.",
-        "cta": "Verifica Slot",
-        "footer": "Consulenza Senior a lungo termine",
+        "cta": "Richiedi Slot",
+        "footer": "Soluzioni Enterprise Scalabili",
         "features": [
           "Software Architecture Design",
           "Security & Compliance (DORA)",
@@ -191,16 +191,16 @@
     },
     "portfolio": {
       "badge": "Case Studies",
-      "title_part1": "Progetti",
-      "title_part2": "Distintivi",
-      "lead": "Soluzioni reali per sfide tecnologiche concrete.",
+      "title_part1": "Trasformazioni",
+      "title_part2": "Digitali",
+      "lead": "Risultati concreti: dal debito tecnico del passato a soluzioni moderne e performanti.",
       "project1": {
-        "type": "Digitalizzazione PMI",
-        "desc": "Trasformazione digitale di un servizio turistico tradizionale: da gestione manuale a ecosistema con booking online e automazione dei contatti."
+        "type": "Evoluzione Digitale PMI",
+        "desc": "RedenTrains.it: Restyling totale di un servizio turistico storico. Ho trasformato un vecchio sito statico e processi manuali in un ecosistema con booking online automatizzato, migliorando drasticamente la visibilità e l'efficienza."
       },
       "project2": {
         "type": "Automazione Processi",
-        "desc": "Software custom per il settore edilizio che automatizza calcoli complessi e generazione preventivi, riducendo i tempi di risposta dell'80%."
+        "desc": "IL Preventivo: Software custom per il settore edilizio. Automatizza calcoli complessi e generazione preventivi, riducendo i tempi di risposta dell'80% e azzerando gli errori di calcolo."
       }
     },
     "recommendations": {
@@ -263,19 +263,6 @@
       "focus_item2": "Ottimizzazione Performance & Core Web Vitals",
       "focus_item3": "Sicurezza OWASP & Gestione Identità (OAuth2/OIDC)",
       "focus_item4": "Automazione Cloud & Strategie Zero-Downtime"
-    },
-    "projects": {
-      "title_part1": "Progetti",
-      "title_part2": "Distintivi",
-      "lead": "La maestria si dimostra con i fatti. Ecco alcuni progetti che ho concepito e portato al successo.",
-      "project1": {
-        "badge": "Sito Web",
-        "desc": "Il trenino turistico della città di Nuoro. Un progetto di restyling che unisce tradizione e tecnologia d'avanguardia, gestendo i primi contatti dei clienti come enti pubblici e privati."
-      },
-      "project2": {
-        "badge": "App Desktop",
-        "desc": "Prodotto software progettato per ottimizzare i tempi di realizzazione e gestione dei preventivi."
-      }
     },
     "certifications": {
       "title": "Certificazioni & Formazione",
