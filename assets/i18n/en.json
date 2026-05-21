@@ -196,11 +196,19 @@
       "lead": "Concrete results: from past technical debt to modern, high-performance solutions.",
       "project1": {
         "type": "SME Digital Evolution",
-        "desc": "RedenTrains.it: Total restyling of a historic tourist service. I transformed an old static site and manual processes into an ecosystem with automated online booking, drastically improving visibility and efficiency."
+        "desc": "RedenTrains.it: Total restyling of a historic tourist service. I transformed an old static site improving drastically visibility and efficiency."
       },
       "project2": {
         "type": "Process Automation",
-        "desc": "IL Preventivo: Custom software for the construction sector. It automates complex calculations and quote generation, reducing response times by 80% and eliminating calculation errors."
+        "desc": "IL Preventivo: Desktop app, it is a custom software for the construction sector. It automates complex calculations and quote generation, reducing response times by 80% and eliminating calculation errors."
+      },
+      "project3": {
+        "type": "Online Booking & Payments",
+        "desc": "Restyling (demo phase) with an integrated horse tour booking system and Stripe payments. Reduces manual management workload by 90%. Official go-live scheduled for late June 2026."
+      },
+      "project4": {
+        "type": "Education & Games",
+        "desc": "Mobile-first version of musiku (patented game by Jacopo Tore) of a 12x12 musical Sudoku. Combines logic and musical training, allowing users to compose patterns with sound notes. Currently in beta."
       }
     },
     "recommendations": {

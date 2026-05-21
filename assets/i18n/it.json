@@ -54,7 +54,7 @@
       "badge1": "Risultati Garantiti",
       "badge2": "PRONTO AL SALTO DI QUALITÀ?",
       "title_part1": "Portiamo il tuo Business",
-      "title_part2": "al Prossimo Levello",
+      "title_part2": "al Prossimo Livello",
       "lead": "Che tu debba scalare un'architettura enterprise o eliminare i processi manuali della tua PMI, ho le competenze per trasformare la tua visione in una soluzione tecnologica vincente.",
       "cta": "Parliamo del tuo Progetto",
       "direct_consultancy": "Consulenza Senior Diretta"
@@ -196,11 +196,19 @@
       "lead": "Risultati concreti: dal debito tecnico del passato a soluzioni moderne e performanti.",
       "project1": {
         "type": "Evoluzione Digitale PMI",
-        "desc": "RedenTrains.it: Restyling totale di un servizio turistico storico. Ho trasformato un vecchio sito statico e processi manuali in un ecosistema con booking online automatizzato, migliorando drasticamente la visibilità e l'efficienza."
+        "desc": "RedenTrains.it: Restyling totale di un servizio turistico storico. Ho trasformato un vecchio sito statico migliorando drasticamente la visibilità e l'efficienza."
       },
       "project2": {
         "type": "Automazione Processi",
-        "desc": "IL Preventivo: Software custom per il settore edilizio. Automatizza calcoli complessi e generazione preventivi, riducendo i tempi di risposta dell'80% e azzerando gli errori di calcolo."
+        "desc": "IL Preventivo: app Desktop, è un Software custom per il settore edilizio. Automatizza calcoli complessi e generazione preventivi, riducendo i tempi di risposta dell'80% e azzerando gli errori di calcolo."
+      },
+      "project3": {
+        "type": "Prenotazione & Pagamenti Online",
+        "desc": "Restyling (fase demo) con sistema integrato di prenotazione tour a cavallo e pagamenti Stripe. Riduce il carico di gestione manuale del 90%. Lancio ufficiale previsto per fine giugno 2026."
+      },
+      "project4": {
+        "type": "Educazione & Giochi",
+        "desc": "Versione mobile-first di musiku (gioco brevettato da Jacopo Tore) di un Sudoku musicale 12x12. Unisce logica e formazione musicale, permettendo di comporre schemi con note sonore. Attualmente in versione beta."
       }
     },
     "recommendations": {
@@ -480,7 +488,7 @@
       },
       "stat3": {
         "title": "Component Architecture",
-        "desc": "Every elemento è un componente atomico, facilitando test e aggiornamenti continui senza downtime."
+        "desc": "Ogni elemento è un componente atomico, facilitando test e aggiornamenti continui senza downtime."
       }
     },
     "freelance": {
