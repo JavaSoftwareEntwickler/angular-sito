@@ -388,7 +388,15 @@
       },
       "details_label": "Project Details",
       "details_placeholder": "Briefly describe your technological challenge...",
-      "submit": "Send Message"
+      "submit": "Send Message",
+      "success_title": "Message Sent!",
+      "success_message": "Thank you for contacting me. I will get back to you as soon as possible.",
+      "send_another": "Send another message",
+      "error_generic": "An error occurred while sending. Please try again later.",
+      "error_name_required": "Name is required",
+      "error_email_invalid": "Please enter a valid email address",
+      "sending": "Sending...",
+      "wait": "Please wait"
     }
   },
   "tech_stack": {
@@ -540,7 +548,7 @@
       },
       "data": {
         "title": "Collected Data",
-        "content": "Through the contact form, the following are collected: Name, Email, and project type. This data is sent via the Formspree service for the sole purpose of responding to your requests."
+        "content": "Through the contact form, the following are collected: Name, Email, and project type. This data is saved in our secure database for the sole purpose of responding to your requests."
       },
       "purpose": {
         "title": "Purpose",

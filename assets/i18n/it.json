@@ -388,7 +388,15 @@
       },
       "details_label": "Dettagli Progetto",
       "details_placeholder": "Descrivi brevemente la tua sfida tecnologica...",
-      "submit": "Invia Messaggio"
+      "submit": "Invia Messaggio",
+      "success_title": "Messaggio Inviato!",
+      "success_message": "Grazie per avermi contattato. Ti risponderò il prima possibile.",
+      "send_another": "Invia un altro messaggio",
+      "error_generic": "Si è verificato un errore durante l'invio. Riprova più tardi.",
+      "error_name_required": "Il nome è obbligatorio",
+      "error_email_invalid": "Inserisci un indirizzo email valido",
+      "sending": "Invio in corso...",
+      "wait": "Attendi"
     }
   },
   "tech_stack": {
@@ -540,7 +548,7 @@
       },
       "data": {
         "title": "Dati Raccolti",
-        "content": "Attraverso il modulo di contatto vengono raccolti: Nome, Email e tipologia di progetto. Questi dati vengono inviati tramite il servizio Formspree al solo scopo di rispondere alle tue richieste."
+        "content": "Attraverso il modulo di contatto vengono raccolti: Nome, Email e tipologia di progetto. Questi dati vengono salvati nel nostro database sicuro al solo scopo di rispondere alle tue richieste."
       },
       "purpose": {
         "title": "Finalità",
